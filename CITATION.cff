@@ -1,0 +1,11 @@
+cff-version: 1.2.0
+message: "Si vous utilisez SATOR, merci de le citer comme suit."
+title: "SATOR : Soiling Accumulation Through Observed Rainfall"
+abstract: "Calculateur des pertes d'encrassement photovoltaïque fondé sur le modèle de Kimber, validé contre pvlib.soiling.kimber."
+authors:
+  - family-names: "Ranaivoarisoa"
+    given-names: "Hasina Randy"
+version: "1.0"
+date-released: "2026-11-01"
+license: MIT
+keywords: [photovoltaïque, encrassement, soiling, Kimber, pvlib, PVsyst]
